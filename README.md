@@ -6,4 +6,4 @@
 
 Everything about federated learning. *Your contribution is highly valued!* 
 
-关于联邦学习的所有资料，包括：介绍、综述文章、最新文章、代表工作及其代码、数据集、论文等等。 *欢迎一起贡献！* 
+关于联邦学习的资料，包括：介绍、综述文章、最新文章、代表工作及其代码、数据集、论文等等。 *欢迎一起贡献！* 
