@@ -32,6 +32,8 @@ Everything about federated learning. *Your contribution is highly valued!*
 - 视频
     - [GDPR, Data Shortage and AI](https://aaai.org/Conferences/AAAI-19/invited-speakers/#yang) (AAAI-19 Invited Talk) 
 
+- 新闻
+	- 2019/02/09 [谷歌发布全球首个产品级移动端分布式机器学习系统，数千万手机同步训练](https://www.jiemian.com/article/2853096.html)
 
 ---
 
