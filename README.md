@@ -54,7 +54,7 @@ Everything about federated learning. *Your contribution is highly valued!*
 ## 3. 项目 Project
 - [FATE - 微众银行](https://github.com/WeBankFinTech/FATE)
 - [TensorFlow Federated](https://github.com/tensorflow/federated)
-- [Federated-Learning](https://github.com/roxanneluo/Federated-Learning) a implement of google's paper.
+- [Federated-Learning](https://github.com/roxanneluo/Federated-Learning) : A implement of google's paper.
 
 ---
 
