@@ -42,7 +42,8 @@ Everything about federated learning. *Your contribution is highly valued!*
     - TIST 201902 - [Federated Machine Learning: Concept and Applications](https://dl.acm.org/citation.cfm?id=3298981) 
 
 - 应用 Application
-	- 2019 - [Federated Learning for Mobile Keyboard Prediction](https://arxiv.org/abs/1811.03604) - Google将联邦学习用于自家输入法
+	- 2019 - [Federated Learning for Mobile Keyboard Prediction](https://arxiv.org/abs/1811.03604) - Google将联邦学习用于自家输入法 
+	- 2019 - [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046) - Google千万设备级联邦学习系统设计
 
 - 联邦学习被Google首次提出
     - 2016 - [Federated Optimization: Distributed Machine Learning for On-Device Intelligence](https://arxiv.org/abs/1610.02527)
