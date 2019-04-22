@@ -41,8 +41,8 @@ Everything about federated learning. *Your contribution is highly valued!*
 
 - 联邦学习被Google首次提出的 3 篇文章
     - 2016 - [Federated Optimization: Distributed Machine Learning for On-Device Intelligence](https://arxiv.org/abs/1610.02527)
-    - 2016 - [Federated Learning: Strategies for Improving Communication Efficiency](https://arxiv.org/abs/1610.05492)
-    - 2016 - [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629) 
+    - 2017 - [Federated Learning: Strategies for Improving Communication Efficiency](https://arxiv.org/abs/1610.05492)
+    - 2017 - [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629) 
 
 - arXiv (未经同行评议)
     - arXiv 201901 - [Federated Reinforcement Learning](https://arxiv.org/abs/1901.08277)
