@@ -20,6 +20,7 @@ Everything about federated learning. *Your contribution is highly valued!*
 ## 1. 介绍 Introduction
 - 文字介绍
     - [杨强：联邦学习](https://mp.weixin.qq.com/s/5FTrG5SZey2yeIbuyT3HoQ)
+    - [Google - Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
     - [联邦学习的研究及应用](https://mp.weixin.qq.com/s?src=11&timestamp=1555896266&ver=1561&signature=ZtLlc7qakNAdw8hV3dxaB30PxtK9hAshYsIxccFf-D4eJrUw6YKQcqD0lD3SDMEn4egQTafUZr429er7SueP6HKLTr*uFKfr6JuHc3OvfdJ-uExiEJStHFynC65htbLp&new=1)
     - [杨强：GDPR对AI的挑战和基于联邦迁移学习的对策](https://zhuanlan.zhihu.com/p/42646278) 
 
@@ -35,7 +36,7 @@ Everything about federated learning. *Your contribution is highly valued!*
 ---
 
 ## 2. 相关论文 Related Papers
-- 理论介绍
+- 理论介绍 Theory
     - TIST 201902 - [Federated Machine Learning: Concept and Applications](https://dl.acm.org/citation.cfm?id=3298981) 
 
 - 联邦学习被Google首次提出的 3 篇文章
@@ -53,6 +54,7 @@ Everything about federated learning. *Your contribution is highly valued!*
 ## 3. 项目 Project
 - [FATE - 微众银行](https://github.com/WeBankFinTech/FATE)
 - [TensorFlow Federated](https://github.com/tensorflow/federated)
+- [Federated-Learning](https://github.com/roxanneluo/Federated-Learning) a implement of google's paper.
 
 ---
 
