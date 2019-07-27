@@ -51,6 +51,7 @@ Everything about federated learning. *Your contribution is highly valued!*
     - 2017 - [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629) 联邦平均算法 the FederatedAveraging algorithm
 
 - arXiv (未经同行评议)
+    - arXiv 201902 - [Federated Machine Learning: Concept and Applications](https://arxiv.org/abs/1902.04885)
     - arXiv 201901 - [Federated Reinforcement Learning](https://arxiv.org/abs/1901.08277)
     - arXiv 201901 - [SecureBoost: A Lossless Federated Learning Framework](https://arxiv.org/abs/1901.08755)
     - arXiv 201810 - [Secure Federated Transfer Learning](https://arxiv.org/abs/1812.03337) 
