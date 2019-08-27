@@ -45,7 +45,8 @@ Everything about federated learning. *Your contribution is highly valued!*
 	- 2019 - [Federated Learning for Mobile Keyboard Prediction](https://arxiv.org/abs/1811.03604) - Google将联邦学习用于自家输入法 
 	- 2019 - [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046) - Google千万设备级联邦学习系统设计
 
-- 联邦学习被Google首次提出
+- Google提联邦学习
+    - 2016 - [Practical Secure Aggregation for Federated Learning on User-Held Data](https://arxiv.org/abs/1611.04482)
     - 2016 - [Federated Optimization: Distributed Machine Learning for On-Device Intelligence](https://arxiv.org/abs/1610.02527)
     - 2017 - [Federated Learning: Strategies for Improving Communication Efficiency](https://arxiv.org/abs/1610.05492)
     - 2017 - [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629) 联邦平均算法 the FederatedAveraging algorithm
