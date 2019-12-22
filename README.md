@@ -45,16 +45,17 @@ Everything about federated learning. *Your contribution is highly valued!*
 	- 2019 - [Federated Learning for Mobile Keyboard Prediction](https://arxiv.org/abs/1811.03604) - Google将联邦学习用于自家输入法 
 	- 2019 - [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046) - Google千万设备级联邦学习系统设计
 
-- Google提联邦学习
+- 联邦学习的提出 
+    - 2015 - [Federated Optimization:Distributed Optimization Beyond the Datacenter](https://arxiv.org/abs/1511.03575)
     - 2016 - [Practical Secure Aggregation for Federated Learning on User-Held Data](https://arxiv.org/abs/1611.04482)
     - 2016 - [Federated Optimization: Distributed Machine Learning for On-Device Intelligence](https://arxiv.org/abs/1610.02527)
     - 2017 - [Federated Learning: Strategies for Improving Communication Efficiency](https://arxiv.org/abs/1610.05492)
     - 2017 - [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629) 联邦平均算法 the FederatedAveraging algorithm
 
-- arXiv (未经同行评议)
-    - arXiv 201901 - [Federated Reinforcement Learning](https://arxiv.org/abs/1901.08277)
-    - arXiv 201901 - [SecureBoost: A Lossless Federated Learning Framework](https://arxiv.org/abs/1901.08755)
-    - arXiv 201810 - [Secure Federated Transfer Learning](https://arxiv.org/abs/1812.03337) 
+- NIPS 2016 - [Practical Secure Aggregation for Federated Learning on User-Held Data](https://arxiv.org/abs/1611.04482) 增强联邦学习的隐私保护能力
+- arXiv 201901 - [Federated Reinforcement Learning](https://arxiv.org/abs/1901.08277) 联邦学习 + 强化学习 (Federated Learning + Reinforcement Learning)
+- arXiv 201901 - [SecureBoost: A Lossless Federated Learning Framework](https://arxiv.org/abs/1901.08755) 纵向联邦学习 (Vertical Federated Learning)
+- arXiv 201810 - [Secure Federated Transfer Learning](https://arxiv.org/abs/1812.03337) 
 
 ---
 
@@ -62,6 +63,13 @@ Everything about federated learning. *Your contribution is highly valued!*
 - [FATE - 微众银行](https://github.com/WeBankFinTech/FATE)
 - [TensorFlow Federated](https://github.com/tensorflow/federated)
 - [Federated-Learning](https://github.com/roxanneluo/Federated-Learning) : An implement of google's paper.
+
+---
+
+## 4. 相关学者 Related Scholars
+
+- [杨强 Yang Qiang](https://scholar.google.com/citations?hl=en&user=1LxWZLQAAAAJ)
+- [H. Brendan McMahan](https://scholar.google.com/citations?user=iKPWydkAAAAJ&hl=en)
 
 ---
 
