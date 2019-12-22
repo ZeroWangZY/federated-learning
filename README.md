@@ -39,6 +39,7 @@ Everything about federated learning. *Your contribution is highly valued!*
 
 ## 2. 相关论文 Related Papers
 - 理论介绍 Theory
+    - arXiv 201912 - [Advances and Open Problems in Federated Learning](https://arxiv.org/abs/1912.04977) 58位学者联名综述
     - TIST 201902 - [Federated Machine Learning: Concept and Applications](https://dl.acm.org/citation.cfm?id=3298981) 
 
 - 应用 Application
@@ -53,6 +54,7 @@ Everything about federated learning. *Your contribution is highly valued!*
     - 2017 - [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629) 联邦平均算法 the FederatedAveraging algorithm
 
 - NIPS 2016 - [Practical Secure Aggregation for Federated Learning on User-Held Data](https://arxiv.org/abs/1611.04482) 增强联邦学习的隐私保护能力
+- NIPS 2017 - [Federated Multi-Task Learning](http://papers.nips.cc/paper/7029-federated-multi-task-learning) 联邦多任务学习
 - arXiv 201901 - [Federated Reinforcement Learning](https://arxiv.org/abs/1901.08277) 联邦学习 + 强化学习 (Federated Learning + Reinforcement Learning)
 - arXiv 201901 - [SecureBoost: A Lossless Federated Learning Framework](https://arxiv.org/abs/1901.08755) 纵向联邦学习 (Vertical Federated Learning)
 - arXiv 201810 - [Secure Federated Transfer Learning](https://arxiv.org/abs/1812.03337) 
