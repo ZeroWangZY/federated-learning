@@ -42,6 +42,7 @@ Everything about federated learning. *Your contribution is highly valued!*
 - 理论介绍 Theory
     - arXiv 201912 - [Advances and Open Problems in Federated Learning](https://arxiv.org/abs/1912.04977) 58位学者联名综述
     - TIST 201902 - [Federated Machine Learning: Concept and Applications](https://dl.acm.org/citation.cfm?id=3298981) 
+    - arXiv 201909 - [Federated Learning in Mobile Edge Networks: A Comprehensive Survey](https://arxiv.org/abs/1909.11875)
 
 - 应用 Application
 	- 2019 - [Federated Learning for Mobile Keyboard Prediction](https://arxiv.org/abs/1811.03604) - Google将联邦学习用于自家输入法 
