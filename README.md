@@ -11,15 +11,15 @@ Everything about federated learning. *Your contribution is highly valued!*
 ---
 
 - 目录
-	- [1. 介绍 Introduction](##1.-介绍-Introduction)
+	- [1. 教程 Tutorial](##1.-教程-Tutorial)
 	- [2. 相关论文 Related Papers](##2.-相关论文-Related-Papers)
 	- [3. 项目 Project](##3.-项目-Project)
 	- [4. 相关学者 Related Scholars](##4.-相关学者-Related-Scholars)
 
 ---
 
-## 1. 介绍 Introduction
-- 文字介绍
+## 1. 教程 Tutorial
+- 文字
     - [杨强：联邦学习](https://mp.weixin.qq.com/s/5FTrG5SZey2yeIbuyT3HoQ)
     - [Google - Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
     - [联邦学习的研究及应用](https://mp.weixin.qq.com/s?src=11&timestamp=1555896266&ver=1561&signature=ZtLlc7qakNAdw8hV3dxaB30PxtK9hAshYsIxccFf-D4eJrUw6YKQcqD0lD3SDMEn4egQTafUZr429er7SueP6HKLTr*uFKfr6JuHc3OvfdJ-uExiEJStHFynC65htbLp&new=1)
@@ -39,7 +39,7 @@ Everything about federated learning. *Your contribution is highly valued!*
 ---
 
 ## 2. 相关论文 Related Papers
-- 理论介绍 Theory
+- 综述与介绍 Survey And Introduction
     - arXiv 201912 - [Advances and Open Problems in Federated Learning](https://arxiv.org/abs/1912.04977) 58位学者联名综述
     - TIST 201902 - [Federated Machine Learning: Concept and Applications](https://dl.acm.org/citation.cfm?id=3298981) 
     - arXiv 201909 - [Federated Learning in Mobile Edge Networks: A Comprehensive Survey](https://arxiv.org/abs/1909.11875)
