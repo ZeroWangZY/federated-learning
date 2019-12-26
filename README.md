@@ -11,10 +11,10 @@ Everything about federated learning. *Your contribution is highly valued!*
 ---
 
 - 目录
-	- [1. 教程 Tutorial](##1-教程-Tutorial)
-	- [2. 相关论文 Related Papers](##2-相关论文-Related-Papers)
-	- [3. 项目 Project](##3-项目-Project)
-	- [4. 相关学者 Related Scholars](##4-相关学者-Related-Scholars)
+	- [1. 教程 Tutorial](#1-教程-Tutorial)
+	- [2. 相关论文 Related Papers](#2-相关论文-Related-Papers)
+	- [3. 项目 Project](#3-项目-Project)
+	- [4. 相关学者 Related Scholars](#4-相关学者-Related-Scholars)
 
 ---
 
