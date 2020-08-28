@@ -91,4 +91,13 @@ Everything about federated learning. *Your contribution is highly valued!*
 
 ---
 
+## Contributors
+
+Thanks goes to these wonderful people:
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+| [<img src="https://avatars0.githubusercontent.com/u/18085242?s=460&u=cdcc485f27e155a359c63dfa4ce93e81b4a956e7&v=4" width="75px;"/><br /><sub><b>王智勇(Wang Zhiyong)</b></sub>](https://github.com/ZeroWangZY)<br /> | [<img src="https://avatars1.githubusercontent.com/u/27065652?s=460&u=eeda288b4a40087a86e039501ccfcf707c5d96c6&v=4" width="75px;"/><br /><sub><b>刘一璟(Liu Yijing)</b></sub>](https://nicolesaidy.com)<br />|
+| :---: | :---: |
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 ## 欢迎参与贡献
